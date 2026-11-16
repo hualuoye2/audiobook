@@ -1,0 +1,9 @@
+{
+  "_comment": "make_audiobook.py 的默认参数。命令行显式给出的值优先于本文件。",
+  "engine": "edge",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": 0,
+  "volume": null,
+  "pitch": 0,
+  "author": "未署名"
+}
